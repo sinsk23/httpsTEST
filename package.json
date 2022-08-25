@@ -1,0 +1,22 @@
+{
+  "name": "htpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinsk23/httpsTEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinsk23/httpsTEST/issues"
+  },
+  "homepage": "https://github.com/sinsk23/httpsTEST#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
